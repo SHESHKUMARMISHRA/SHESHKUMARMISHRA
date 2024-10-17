@@ -5,7 +5,7 @@ I'm **Shesh Kumar Mishra**, an experienced software engineer with over 11 years 
 - 🔭 I’m currently working on CRM portal development, leveraging OOP and APIs like JIRA Service Desk API and RingCentral API for CRM integration at **Netcom Learning**.
 - 🌱 I’m currently exploring **Solr-search API integration** and **API development with Node.js and MongoDB**.
 - 💬 Ask me about **PHP, JavaScript, Laravel, CodeIgniter, Node.js, React.js, Drupal 9, AWS**, and more.
-- 📫 How to reach me: mishrakshesh14287@gmail.com | [GitHub](https://github.com/your-github-username)
+- 📫 How to reach me: mishrakshesh14287@gmail.com | [GitHub](https://github.com/SHESHKUMARMISHRA)
 - 😄 Pronouns: He/Him
 
 ---
@@ -22,7 +22,7 @@ I'm **Shesh Kumar Mishra**, an experienced software engineer with over 11 years 
 ---
 
 ## Projects
-
+- **[MuktoPath](https://muktopaath.gov.bd/)** - Developed  E-Learning Portal using Laravel 8 rest api and reactJS.
 - **[Netcom Learning](https://netcomlearning.com)** - Developed CRM portal for content visibility, and integrated APIs like JIRA Service Desk API and RingCentral API.
 - **[NBCU Solr Search](https://nbcuni.com)** - Conducted Solr-search API testing and integration for NBCUniversal.
 - **[Inhabitr](https://inhabitr.com)** - Created RESTful APIs and managed PostgreSQL server for this AI-powered furnishing solution.
