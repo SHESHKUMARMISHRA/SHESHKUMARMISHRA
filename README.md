@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**SHESHKUMARMISHRA/SHESHKUMARMISHRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Your Name]**, a passionate software developer from [Your Country/City].
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [project or technology]
+- 🌱 I’m currently learning [technology or skill]
+- 💬 Ask me about [topics you are knowledgeable about]
+- 📫 How to reach me: [Your contact info, GitHub profile link, etc.]
+- 😄 Pronouns: [Your pronouns]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+- Programming Languages: [List your programming languages]
+- Tools: [List of tools you use, like Git, Docker, etc.]
+- Frameworks: [Laravel, React, etc.]
+
+---
+
+## Projects
+- [Project 1](Link to the project) - Description of project
+- [Project 2](Link to the project) - Description of project
