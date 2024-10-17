@@ -1,22 +1,34 @@
 # Hi there! 👋
 
-I'm **[Your Name]**, a passionate software developer from [Your Country/City].
+I'm **Shesh Kumar Mishra**, an experienced software engineer with over 11 years of expertise in designing and implementing high-performance, secure, and user-friendly web applications. Based in India, I am passionate about crafting client-centric solutions, leading development teams, and staying ahead of industry trends to deliver cutting-edge results.
 
-- 🔭 I’m currently working on [project or technology]
-- 🌱 I’m currently learning [technology or skill]
-- 💬 Ask me about [topics you are knowledgeable about]
-- 📫 How to reach me: [Your contact info, GitHub profile link, etc.]
-- 😄 Pronouns: [Your pronouns]
+- 🔭 I’m currently working on CRM portal development, leveraging OOP and APIs like JIRA Service Desk API and RingCentral API for CRM integration at **Netcom Learning**.
+- 🌱 I’m currently exploring **Solr-search API integration** and **API development with Node.js and MongoDB**.
+- 💬 Ask me about **PHP, JavaScript, Laravel, CodeIgniter, Node.js, React.js, Drupal 9, AWS**, and more.
+- 📫 How to reach me: mishrakshesh14287@gmail.com | [GitHub](https://github.com/your-github-username)
+- 😄 Pronouns: He/Him
 
 ---
 
 ## Skills
-- Programming Languages: [List your programming languages]
-- Tools: [List of tools you use, like Git, Docker, etc.]
-- Frameworks: [Laravel, React, etc.]
+
+- **Programming Languages**: PHP, JavaScript
+- **Frameworks**: Laravel, CodeIgniter, Node.js, React.js
+- **Databases**: MySQL, SQL, PostgreSQL, MongoDB
+- **Web Technologies**: OOP, RESTful API, AWS, Microsoft Dynamics CRM
+- **Frontend Development**: CSS, Bootstrap
+- **Content Management Systems**: Drupal 9
 
 ---
 
 ## Projects
-- [Project 1](Link to the project) - Description of project
-- [Project 2](Link to the project) - Description of project
+
+- **[Netcom Learning](https://netcomlearning.com)** - Developed CRM portal for content visibility, and integrated APIs like JIRA Service Desk API and RingCentral API.
+- **[NBCU Solr Search](https://nbcuni.com)** - Conducted Solr-search API testing and integration for NBCUniversal.
+- **[Inhabitr](https://inhabitr.com)** - Created RESTful APIs and managed PostgreSQL server for this AI-powered furnishing solution.
+- **[Artzolo](https://artzolo.com)** - Developed a marketplace for art lovers and suppliers, enhancing web services using RESTful APIs.
+- **[F45 Challenge](https://f45challenge.com)** - Built the F45 Challenge portal for fitness enthusiasts, focusing on lean muscle development and fat reduction over 8 weeks.
+
+---
+
+Thank you for visiting my profile! Feel free to connect and explore the projects I’m working on.
