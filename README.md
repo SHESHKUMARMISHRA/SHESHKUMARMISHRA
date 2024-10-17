@@ -3,7 +3,7 @@
 I'm **Shesh Kumar Mishra**, an experienced software engineer with over 11 years of expertise in designing and implementing high-performance, secure, and user-friendly web applications. Based in India, I am passionate about crafting client-centric solutions, leading development teams, and staying ahead of industry trends to deliver cutting-edge results.
 
 - 🔭 I’m currently working on CRM portal development, leveraging OOP and APIs like JIRA Service Desk API and RingCentral API for CRM integration at **Netcom Learning**.
-- 🌱 I’m currently exploring **Solr-search API integration** and **API development with Node.js and MongoDB**.
+- 🌱 I’m currently exploring  **API development with Node.js and MongoDB and many more..**.
 - 💬 Ask me about **PHP, JavaScript, Laravel, CodeIgniter, Node.js, React.js, Drupal 9, AWS**, and more.
 - 📫 How to reach me: mishrakshesh14287@gmail.com | [GitHub](https://github.com/SHESHKUMARMISHRA)
 - 😄 Pronouns: He/Him
